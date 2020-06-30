@@ -1,0 +1,1 @@
+# mk-beer-inventory-service
