@@ -1,4 +1,4 @@
-package mk.springframework.common.events;
+package mk.springframework.brewery.model.events;
 
 import lombok.NoArgsConstructor;
 

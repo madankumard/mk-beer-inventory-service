@@ -4,7 +4,7 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import mk.springframework.mkbeerinventoryservice.repositories.BeerInventoryRepository;
 import mk.springframework.mkbeerinventoryservice.web.mappers.BeerInventoryMapper;
-import mk.springframework.mkbeerinventoryservice.web.model.BeerInventoryDto;
+import mk.springframework.brewery.model.BeerInventoryDto;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
